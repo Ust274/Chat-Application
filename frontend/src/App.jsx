@@ -3,7 +3,7 @@ import Navbar from "./Components/Navbar";
 import Home from "./Pages/Home";
 import Signup from "./Pages/Signup";
 import Login from "./Pages/Login";
-import Profile from "./Pages/profile";
+import Profile from "./Pages/Profile";
 import { Loader } from 'lucide-react';
 import { useAuthStore } from "./Stores/useAuthStore.js";
 import { useEffect } from "react";
